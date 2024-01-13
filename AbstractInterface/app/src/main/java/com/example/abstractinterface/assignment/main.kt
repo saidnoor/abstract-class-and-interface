@@ -15,6 +15,6 @@ fun main() {
 
     // Stock Brokerage Operations
     val stockBroker = StockBroker()
-    stockBroker.buyStock("KCB", 100)
+    stockBroker.buyStock("KCB", 100) 
     stockBroker.buyStock("BAT", 400)
 }
